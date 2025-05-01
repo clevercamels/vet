@@ -34,33 +34,32 @@ MS		  Ambulates normally
 Neuro		No apparent neurologic abnormalities                   	 
 Rectal	Normal external appearance, full rectal exam not performed.                    	
 
-Diagnostics
-CBC			
-CHEM/LYTES		
-UA			
-cPLI			
-FECAL			
-RAD		
-aFAST			
+DIAGNOSTICS:
+-[Diagnostic]: [interpretation]
+-[Diagnostic]: [interpretation]
 
-ASSESSMENT
-A1 Dx:
-dDx:
+ASSESSMENT:
+Diagnosis: [Diagnosis]
+Differentials: [Differentials]
 
-A2 Dx:
-dDx:
+SEDATION:
+-[Medication], [Concentration], [Dosage], [Volume], [Route]
+-[Medication], [Concentration], [Dosage], [Volume], [Route]
 
-A3 Dx:
-dDx:
+INJECTIONS / TREATMENTS:
+-[Medication], [Concentration], [Dosage], [Volume], [Route], [Frequency]
+-[Medication], [Concentration], [Dosage], [Volume], [Route], [Frequency]
+-[Additional treatments or diagnostics if applicable]
 
-PLAN
-TX:
+DISPENSED MEDICATIONS:
+-[Medication], [Dosage], [Volume] [Route] [Frequency] “x” [Duration]
+-[Medication], [Dosage], [Volume] [Route] [Frequency] “x” [Duration]
 
-RX:
+FEEDING INSTRUCTIONS:
+[Feeding instructions details]
 
-OTC:
+CLIENT DISCUSSION:
+[Client discussion details]
 
-DISCUSSION
-PE findings 
-Side effects and adverse effects of treatments/therapies
-Follow-up care needed
+FOLLOW-UP INSTRUCTIONS:
+[Follow-up details]
