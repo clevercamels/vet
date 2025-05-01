@@ -1,4 +1,6 @@
-# [Drug Name]
+# [Drug Name] - [Species]
+
+**Drug Name**: [Drug Name]
 
 ## Active Ingredient
 [Active ingredient name]
@@ -6,11 +8,11 @@
 ## Species
 Canine
 
-## Dose
-- [Dose, Route, Frequency]
+## Injectable Dose
+- [**Indication:**, Dose, Route, Frequency]
 
 ## Oral Dose and Duration
-- [Oral Dose, Frequency, Duration]
+- [**Indication:**, Dose, Route, Frequency x Duration]
 
 ## Routes
 [List of routes used in dogs: PO, SQ, IV, IM, etc.]
