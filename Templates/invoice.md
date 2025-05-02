@@ -1,26 +1,24 @@
 # Invoice
 
-**ABC Veterinary Clinic**
+#### ABC Veterinary Clinic
 123 Main Street
 Carrollton, TX 75006
 (972) 555-1212
 vet@example.com
 
-**Invoice Number:** INV-20250502-001
-**Invoice Date:** May 2, 2025
+#### Invoice Number: 20250502-001
+#### Invoice Date: May 2, 2025
 
-**Bill To:**
+Bill To:
 
 [Client Name]
 [Client Address]
 [Client Phone Number]
 [Client Email]
 
-**Patient Information:**
+Patient Information:
 
-**Patient Name:** [Pet's Name]
-**Species:** [Dog/Cat/Other]
-**Breed:** [Pet's Breed]
+Patient: [Pet's Name], [Dog/Cat/Other], [Pet's Breed]
 
 | Item No. | Description                  | Quantity | Unit Price | Amount    |
 |----------|------------------------------|----------|------------|-----------|
@@ -29,11 +27,11 @@ vet@example.com
 | 3        | Fecal Exam                   | 1        | $25.00     | $25.00    |
 | 4        | Heartworm Test               | 1        | $35.00     | $35.00    |
 |          |                              |          |            |           |
-|          | **Subtotal**                 |          |            | $[$]      |
-|          | Sales Tax (if applicable)    |          |            | $[$]      |
-|          | **Total**                    |          |            | **$[$]**  |
+|          | **Subtotal**                 |          |            | $165      |
+|          | Sales Tax (if applicable)    |          |            | $0        |
+|          | **Total**                    |          |            | **$165**  |
 
-**Notes:**
+Notes:
 
 * Payment is due upon receipt.
 * Please make checks payable to ABC Veterinary Clinic.
