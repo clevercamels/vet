@@ -1,5 +1,5 @@
 ## Procedure
-Feline Ovariohysterectomy
+Abdominal Cryptorchid Castration
 
 ## Preoperative Assessment
 Physical exam within normal limits. No signs of systemic illness. CBC/Chemistry reviewed and acceptable for anesthesia.
