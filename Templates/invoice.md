@@ -1,6 +1,6 @@
 # Invoice
 
-**ABC Veterinary Clinic**
+** ABC Veterinary Clinic
 123 Main Street
 Carrollton, TX 75006
 (972) 555-1212
