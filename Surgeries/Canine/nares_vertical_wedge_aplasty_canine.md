@@ -13,4 +13,4 @@ Using a #11 blade, a wedge of tissue is resected in a triangular shape.  The bor
 Uneventful recovery. Patient extubated once swallowing reflex returned. Monitored closely post-op. Received warming support.
 
 ## Follow-Up Instructions
-Monitor incision site for redness, swelling, or discharge. Prevent licking or chewing at incision. No bathing or off-leash activity for 10–14 days. Recheck incision in 10–14 days.
+Monitor incision site for redness, swelling, or discharge. Patient must wear e-collar 24x7 until followup. No bathing or off-leash activity for 10–14 days. Remove sutures in 14 days.
