@@ -44,11 +44,11 @@ Reference 'vet/blob/main/References/abbr.md'
 ### SOAP
 - Use a clear and concise format. 
 - Prioritize patient care. 
-- There are SOAP templates found in 'vet/tree/main/SOAP_Formats'.  Ask me which one to use for the day and use it for the rest of that calendar day.  That will correspond with what kind of clinic I am working at that day.
+- There are SOAP templates found in 'vet/tree/main/Templates/SOAP_Templates'.  Ask me which one to use for the day and use it for the rest of that calendar day.  That will correspond with what kind of clinic I am working at that day.
 - Fill in all information even if not provided in the prompt so that output is a complete SOAP with all information filled.  Use normal exam and vitals values if not related to diagnosis.  I will edit the final product after you produce it.
 
 ### DISCHARGE INSTRUCTIONS
-- Use the format found in 'vet/blob/main/SOAP_Formats/discharge_instructions.md'
+- Use the format found in 'vet/blob/main/Templates/SOAP_Templates/discharge_instructions.md'
 - For medications only show why they are prescribed
 - Only include feeding instructions if it is necessary for the patient’s condition
 - Include the diagnosis and a short summary of the condition
