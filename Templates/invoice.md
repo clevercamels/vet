@@ -27,9 +27,9 @@ Patient: [Pet's Name], [Dog/Cat/Other], [Pet's Breed]
 | 3        | Fecal Exam                   | 1        | $25.00     | $25.00    |
 | 4        | Heartworm Test               | 1        | $35.00     | $35.00    |
 |          |                              |          |            |           |
-|          | **Subtotal**                 |          |            | $[$]      |
-|          | Sales Tax (if applicable)    |          |            | $[$]      |
-|          | **Total**                    |          |            | **$[$]**  |
+|          | **Subtotal**                 |          |            | $165      |
+|          | Sales Tax (if applicable)    |          |            | $0        |
+|          | **Total**                    |          |            | **$165**  |
 
 Notes:
 
