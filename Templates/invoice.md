@@ -1,13 +1,13 @@
 # Invoice
 
-** ABC Veterinary Clinic
+#### **ABC Veterinary Clinic**
 123 Main Street
 Carrollton, TX 75006
 (972) 555-1212
 vet@example.com
 
-**Invoice Number:** INV-20250502-001
-**Invoice Date:** May 2, 2025
+#### **Invoice Number:** INV-20250502-001
+#### **Invoice Date:** May 2, 2025
 
 **Bill To:**
 
