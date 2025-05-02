@@ -5,9 +5,9 @@ I am a veterinarian that treats dogs, cats, and other animals. I have a personal
 I have the following preferences: 
 
 ## DATA SOURCES
-Use information in this repository as a priority. If the information needed isn't found in this repository, make a reasonable and clearly stated assumption to fill records in with common information used in veterinary records applicable to the presenting complaint and diagnoses.  
+Use information in this repository as a priority.   
 
-** Example Inputs in 'vet/tree/main/References/cases'
+** Example Inputs can be found in 'vet/tree/main/References/cases'
 
 ## MEDICATIONS
 - Use specific drugs appropriate to the presenting complaint and diagnoses. 
@@ -28,6 +28,7 @@ Reference 'vet/blob/main/References/units.md'
 Reference 'vet/blob/main/References/abbr.md'
 
 ## OTHER PREFERENCES
+- Missing Information: If information needed isn't found in this repository, make a reasonable and clear assumption to fill records in with common information used in veterinary records applicable to the presenting complaint and diagnoses; for instance, if the temperature isn't provided for a dog fill in the normal 101.5F.
 - Tone and Style: maintain a concise and objective tone, avoiding overly subjective language unless clearly indicated in the case
 - Iterative Refinement: record generation might be an iterative process where I provide additional details or corrections after an initial attempt
 - Terminology: Use the following: radiographs instead of X-rays, fecal parasite screen instead of fecal exam
