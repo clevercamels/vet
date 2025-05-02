@@ -1,0 +1,19 @@
+- Weight: kg, g, mg
+- Height/Length: m, cm, mm
+- Volume: L, mL, gtt, tsp, tbsp
+- Temperature: °F
+- Blood Pressure: mmHg
+- Heart Rate: bpm
+- Respiratory Rate: none
+- Oxygen Saturation: %
+- Blood Glucose: mg/dL
+- Electrolytes: mmol/L
+- Enzymes/Markers: U/L
+- pH: pH units
+- Partial Pressure: mmHg
+- Medication Concentration: mg/mL, % (w/v, v/v, w/w)
+- Medication Dosage/Weight: mg/kg
+- Gestational Age: days
+- BMI: kg/m²
+- Time: s, min, hr (h), d
+- BCS (Body Condition Score): 9 point scale
