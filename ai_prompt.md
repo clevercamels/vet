@@ -25,7 +25,7 @@ Use information in this repository as a priority. If the information needed isn'
 Reference 'vet/blob/main/References/units.md'
 
 ## VETERINARY ABBREVIATIONS
-TBD
+Reference 'vet/blob/main/References/abbr.md'
 
 ## OTHER PREFERENCES
 - Tone and Style: maintain a concise and objective tone, avoiding overly subjective language unless clearly indicated in the case
