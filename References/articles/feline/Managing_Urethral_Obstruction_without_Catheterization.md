@@ -1,17 +1,11 @@
 A protocol for managing urethral obstruction in male cats without urethral catheterization
-Edward S. Cooper VMD, MS, DACVECC, Tammy J. Owens DVM, Dennis J. Chew DVM, DACVIM, and C. A. Tony Buffington
+Edward S. Cooper VMD, MS, DACVECC, Tammy J. Owens DVM, Dennis J. Chew DVM, DACVIM, and C. A. Tony Buffington DVM, Phd, DACVN
 
-
-
-
-
- DVM, Phd, DACVN
-View More
 DOI: https://doi.org/10.2460/javma.237.11.1261
 Volume/Issue: Volume 237: Issue 11
 Online Publication Date: 01 Dec 2010
 
-Abstract
+## Abstract
 Objective—To determine efficacy of a protocol for managing urethral obstruction (UO) in male cats without urethral catheterization.
 
 Design—Clinical trial.
@@ -30,7 +24,7 @@ Although it has generally been accepted that the physical presence of a mucous p
 
 The purpose of the study reported here was to determine the efficacy of a protocol for managing UO in male cats that involved pharmacological manipulation, intermittent cystocentesis, and provision of a low-stress environment. We hypothesized that this protocol would allow for spontaneous resolution of UO without the need for urethral catheterization and without a significant increase in recurrence rate, compared with conventional treatment.
 
-Materials and Methods
+## Materials and Methods
 Case selection—Male cats brought to The Ohio State University Veterinary Teaching Hospital for treatment of naturally occurring UO between June 2007 and June 2008 were considered for inclusion in the study. Cats were eligible for inclusion in the study if a diagnosis of UO had been made on the basis of history and physical examination findings and the owners had declined conventional treatment (ie, urethral catheterization and intensive care) because of financial considerations and were considering euthanasia. Cats with clinically important physical examination abnormalities (ie, heart rate < 120 beats/min, rectal temperature < 35.6°C [96°F], or unresponsive mentation), severe metabolic derangements (venous pH < 7.1 or serum potassium concentration > 8.0 mEq/L), or radiographic evidence of cystic or urethral calculi were excluded from the study. Severity of azotemia at the time of initial examination was not used as an inclusion or exclusion criterion. Owner consent was obtained prior to initiation of treatment. The treatment protocol used in the study was approved by The Ohio State University Veterinary Teaching Hospital's Executive Committee. At the time this study was performed, clinical research projects performed at the Veterinary Teaching Hospital and involving client-owned subjects did not require approval from The Ohio State University's Institutional Animal Care and Use Committee.
 
 Procedures—Owners of cats enrolled in the study were required to pay a set fee ($350) to cover hospital expenses associated with administering the protocol, a cost that was substantially less than the estimated cost of standard treatment ($1,200 to $1,800). Cats were given acepromazine (0.25 mg, IM) and buprenorphine (0.075 mg, IM) to provide sedation and analgesia and help minimize stress. Approximately 10 minutes later, the penis was extruded, inspected, and gently massaged in an attempt to dislodge any obstructions in the distal portion of the penis. A single attempt to gently express the bladder was then made. If no urine was produced, cystocentesis was performed with a 22-gauge, 1.5-inch needle connected to extension tubing, a 3-way stopcock, and a 20-mL syringe to alleviate bladder distention and discomfort. A venous blood sample was obtained, and venous pH and serum sodium, potassium, chloride, urea nitrogen, and creatinine concentrations were measured with a commercial analyzer.a Packed cell volume was determined by means of centrifugation, and plasma TP concentration was determined by means of refractometry.b A single lateral radiographic view of the abdomen was obtained and assessed for evidence of cystic and urethral calculi; care was taken to include the entire lower urinary tract to the tip of the penis. Cats were allowed to continue in the study only if results of this initial diagnostic testing did not meet any of the exclusion criteria for the study. For cats that continued in the study, saline (0.9% NaCl) solution was administered SC (100 to 200 mL, depending on hydration status and severity of azotemia). Neither urinary nor IV catheterization was performed.
@@ -45,7 +39,7 @@ Data collected for cats included in the study consisted of age; weight; rectal t
 
 Statistical analysis—Data were summarized as mean ± SD. The D'Agostino and Pearson omnibus normality test was used to determine whether data were normally distributed, and 2-tailed Student t tests (normally distributed data) or 1-tailed Mann-Whitney tests (nonnormally distributed data) were used to compare values obtained at the time of initial examination with values obtained at the time of discharge. These tests also were used to compare data values obtained from the treatment success group and the treatment failure group. Standard softwarec was used for all analyses; values of P < 0.05 were considered significant.
 
-Results
+## Results
 Cats—Urethral obstruction was diagnosed in 33 cats during the study period. Fifteen of these cats met the criteria for inclusion and were enrolled in the study. Mean ± SD age was 3.3 ± 2.3 years (range, 1.0 to 7.5 years), and mean body weight was 6.1 ± 1.6 kg (13.4 ± 3.5 lb). All 15 cats were of mixed breeding (10 domestic shorthairs, 3 domestic medium hairs, and 2 domestic longhairs). Two were sexually intact, and 13 were castrated. Eight had reportedly previously had signs consistent with feline idiopathic cystitis, but none had a history of previous episodes of UO.
 
 Physical examination findings—All 15 cats were responsive on initial examination, and mean rectal temperature (mean ± SD, 38.2 ± 1.1°C [100.8 ± 2.0°F]) was within reference limits. At the time of initial examination, mean heart rate was 211 ± 33 beats/min (range, 160 to 276 beats/min) and mean respiratory rate was 48 ± 26 breaths/min (range, 20 to 124 breaths/min). In all cats, the urinary bladder appeared to be of moderate to large size during abdominal palpation and attempts to express urine were unsuccessful.
@@ -110,7 +104,7 @@ There were several limitations to the present study. In particular, the small sa
 
 Finally, findings of the present study lend support to the hypothesis that a substantial portion of the obstructive process in male cats with UO is functional in nature (ie, a result of urethral spasm and edema), rather than physical (ie, a result of a urethral plug or calculi). The protocol used in the present study could allow for treatment of UO at a reduced cost, compared with conventional management, thereby serving as an alternative to euthanasia owing to financial constraints. However, no direct comparison to conventional management was made, so this protocol cannot be recommended as an alternative to conventional management at this time. Further investigation, including a prospective comparison, is warranted to determine the optimal use of this protocol.
 
-ABBREVIATIONS
+## ABBREVIATIONS
 TP	
 Total protein
 
@@ -126,7 +120,7 @@ Clinical Refractometer, Jorgensen Laboratories Inc, Loveland, Colo.
 c.
 GraphPad Prism, version 4.00 for Windows, GraphPad Software, San Diego, Calif.
 
-References
+## References
 1.↑Lee JA, Drobatz KJ. Characterization of the clinical characteristics, electrolytes, acid-base, and renal parameters in male cats with urethral obstruction. J Vet Emerg Crit Care 2003; 13:227-233.
 Search Google Scholar
 Export Citation
