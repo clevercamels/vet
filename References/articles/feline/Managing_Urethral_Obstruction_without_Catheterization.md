@@ -105,97 +105,52 @@ There were several limitations to the present study. In particular, the small sa
 Finally, findings of the present study lend support to the hypothesis that a substantial portion of the obstructive process in male cats with UO is functional in nature (ie, a result of urethral spasm and edema), rather than physical (ie, a result of a urethral plug or calculi). The protocol used in the present study could allow for treatment of UO at a reduced cost, compared with conventional management, thereby serving as an alternative to euthanasia owing to financial constraints. However, no direct comparison to conventional management was made, so this protocol cannot be recommended as an alternative to conventional management at this time. Further investigation, including a prospective comparison, is warranted to determine the optimal use of this protocol.
 
 ## ABBREVIATIONS
-TP	
-Total protein
+TP	Total protein
 
-UO	
-Urethral obstruction
+UO	Urethral obstruction
 
-a.
-Critical Care Xpress, Nova Biomedical, Waltham, Mass.
+a.Critical Care Xpress, Nova Biomedical, Waltham, Mass.
 
-b.
-Clinical Refractometer, Jorgensen Laboratories Inc, Loveland, Colo.
+b.Clinical Refractometer, Jorgensen Laboratories Inc, Loveland, Colo.
 
-c.
-GraphPad Prism, version 4.00 for Windows, GraphPad Software, San Diego, Calif.
+c.GraphPad Prism, version 4.00 for Windows, GraphPad Software, San Diego, Calif.
 
 ## References
-1.↑Lee JA, Drobatz KJ. Characterization of the clinical characteristics, electrolytes, acid-base, and renal parameters in male cats with urethral obstruction. J Vet Emerg Crit Care 2003; 13:227-233.
-Search Google Scholar
-Export Citation
-2.Osborne CA, Kruger JM, Lulich JP, et al. Medical management of feline urethral obstruction. Vet Clin North Am Small Anim Pract 1996; 26:483-498.
-Search Google Scholar
-Export Citation
-3.Rieser TM. Urinary tract emergencies. Vet Clin North Am Small Anim Pract 2005; 35:359-373.
-Search Google Scholar
-Export Citation
-4.↑Lee JA, Drobatz KJ. Historical and physical parameters as predictors of severe hyperkalemia. J Vet Emerg Crit Care 2006; 16:104-111.
-Search Google Scholar
-Export Citation
-5.Burrows CF, Bovée KC. Characterization and treatment of acid-base and renal defects due to urethral obstruction in cats. J Am Vet Med Assoc 1978; 172:801-805.
-Search Google Scholar
-Export Citation
-6.Finco DR, Cornelius LM. Characterization and treatment of water, electrolyte, and acid-base imbalances of induced urethral obstruction in the cat. Am J Vet Res 1977; 38:823-830.
-Search Google Scholar
-Export Citation
-7.Osborne CA, Lees GE, Polzin DJ, et al. Immediate relief of feline urethral obstruction. Vet Clin North Am Small Anim Pract 1984; 14:599-608.
-Search Google Scholar
-Export Citation
-8.Bartges JW, Finco DR, Polzin DJ, et al. Pathophysiology of urethral obstruction. Vet Clin North Am Small Anim Pract 1996; 26:255-264.
-Search Google Scholar
-Export Citation
-9.Lulich JP, Osborne CA. Overview of diagnosis of feline lower urinary tract disorders. Vet Clin North Am Small Anim Pract 1996; 26:339-348.
-Search Google Scholar
-Export Citation
-10.Kruger JM, Osborne CA, Goyal SM, et al. Clinical evaluation of cats with lower urinary tract disease. J Am Vet Med Assoc 1991; 199:211-216.
-Search Google Scholar
-Export Citation
-11.Barsanti JA, Brown J, Marks A, et al. Relationship of lower urinary tract signs to seropositivity for feline immunodeficiency virus in cats. J Vet Intern Med 1996; 10:34-38.
-Search Google Scholar
-Export Citation
-12.↑Gerber B, Eichenberger S, Reusch CE. Guarded long-term prognosis in male cats with urethral obstruction. J Feline Med Surg 2008; 10:16-23.
-Search Google Scholar
-Export Citation
-13.Straeter-Knowlen IM, Marks SL, Rishniw M, et al. Urethral pressure response to smooth and skeletal muscle relaxants in anesthetized, adult male cats with naturally acquired urethral obstruction. Am J Vet Res 1995; 56:919-923.
-Search Google Scholar
-Export Citation
-14.Smith CW, Schiller AG, Smith AR, et al. Effects of indwelling urinary catheters in male cats. J Am Anim Hosp Assoc 1981; 17:427-433.
-Search Google Scholar
-Export Citation
-15.Corgozinho KB, de Souza HJ, Pereira AN, et al. Catheter-induced urethral trauma in cats with urethral obstruction. J Feline Med Surg 2007; 9:481-486.
-Search Google Scholar
-Export Citation
-16.Lees GE, Osborne CA. Use and misuse of indwelling urinary catheters in cats. Vet Clin North Am Small Anim Pract 1984; 14:599-608.
-Search Google Scholar
-Export Citation
-17.↑Buffington CAT, Westropp JL, Chew DJ, et al. Clinical evaluation of multimodal environmental modification (MAMO) in the management of cats with idiopathic cystitis. J Feline Med Surg 2006; 8:261-268.
-Search Google Scholar
-Export Citation
-18.Westropp JL, Buffington CAT. Feline idiopathic cystitis: current understanding of pathophysiology and management. Vet Clin Small Anim Pract 2004; 34:1043-1055.
-Search Google Scholar
-Export Citation
-19.Westropp JL, Kass PH, Buffington CAT. Evaluation of the effects of stress in cats with idiopathic cystitis. Am J Vet Res 2006; 67:731-736.
-Search Google Scholar
-Export Citation
-20.↑Achar E, Achar RA, Paiva TB, et al. Amitriptyline eliminates calculi through urinary tract smooth muscle relaxation. Kidney Int 2003; 64:1356-1364.
-Search Google Scholar
-Export Citation
-21.↑Marks SL, Straeter-Knowlen IM, Moore M, et al. Effects of acepromazine maleate and phenoxybenzamine on urethral pressure profiles of anesthetized, healthy, sexually intact male cats. Am J Vet Res 1996; 57:1497-1500.
-Search Google Scholar
-Export Citation
-22.↑Westropp J, Buffington CAT, Chew DJ. Feline lower urinary tract diseases. In: Ettinger SJ, Feldman EC, eds. Textbook of veterinary internal medicine. St Louis: Elsevier-Saunders, 2005; 1828-1850.
-Search Google Scholar
-Export Citation
-23.↑Westropp JL, Kass PH, Buffington CAT. In vivo evaluation of α2-adrenoceptors in cats with idiopathic cystitis. Am J Vet Res 2007; 68:203-207.
-Search Google Scholar
-Export Citation
-24.Buffington CAT & Pacack K. Increased plasma norepinephrine concentration in cats with interstitial cystitis. J Urol 2001; 165:2051-2054.
-Search Google Scholar
-Export Citation
-25.↑Kruger JM, Osborne CA, Ulrich LK. Cystocentesis. Vet Clin North Am Small Anim Pract 1996; 26:353-361.
-Search Google Scholar
-Export Citation
-26.Bovée KC, Reif JS, Maguire TG, et al. Recurrence of feline urethral obstruction. J Am Vet Med Assoc 1979; 174:93-96.
-Search Google Scholar
-Export Citation
+
+1. ↑Lee JA, Drobatz KJ. Characterization of the clinical characteristics, electrolytes, acid-base, and renal parameters in male cats with urethral obstruction. *J Vet Emerg Crit Care* 2003; 13:227-233.
+
+2. Osborne CA, Kruger JM, Lulich JP, et al. Medical management of feline urethral obstruction. *Vet Clin North Am Small Anim Pract* 1996; 26:483-498.
+
+3. Rieser TM. Urinary tract emergencies. *Vet Clin North Am Small Anim Pract* 2005; 35:359-373.
+
+4. ↑Lee JA, Drobatz KJ. Historical and physical parameters as predictors of severe hyperkalemia. *J Vet Emerg Crit Care* 2006; 16:104-111.
+
+5. Burrows CF, Bovée KC. Characterization and treatment of acid-base and renal defects due to urethral obstruction in cats. *J Am Vet Med Assoc* 1978; 172:801-805.
+
+6. Finco DR, Cornelius LM. Characterization and treatment of water, electrolyte, and acid-base imbalances of induced urethral obstruction in the cat. *Am J Vet Res* 1977; 38:823-830.
+
+7. Osborne CA, Lees GE, Polzin DJ, et al. Immediate relief of feline urethral obstruction. *Vet Clin North Am Small Anim Pract* 1984; 14:599-608.
+
+8. Bartges JW, Finco DR, Polzin DJ, et al. Pathophysiology of urethral obstruction. *Vet Clin North Am Small Anim Pract* 1996; 26:255-264.
+
+9. Lulich JP, Osborne CA. Overview of diagnosis of feline lower urinary tract disorders. *Vet Clin North Am Small Anim Pract* 1996; 26:339-348.
+
+10. Kruger JM, Osborne CA, Goyal SM, et al. Clinical evaluation of cats with lower urinary tract disease. *J Am Vet Med Assoc* 1991; 199:211-216.
+
+11. Barsanti JA, Brown J, Marks A, et al. Relationship of lower urinary tract signs to seropositivity for feline immunodeficiency virus in cats. *J Vet Intern Med* 1996; 10:34-38.
+
+12. ↑Gerber B, Eichenberger S, Reusch CE. Guarded long-term prognosis in male cats with urethral obstruction. *J Feline Med Surg* 2008; 10:16-23.
+
+13. Straeter-Knowlen IM, Marks SL, Rishniw M, et al. Urethral pressure response to smooth and skeletal muscle relaxants in anesthetized, adult male cats with naturally acquired urethral obstruction. *Am J Vet Res* 1995; 56:919-923.
+
+14. Smith CW, Schiller AG, Smith AR, et al. Effects of indwelling urinary catheters in male cats. *J Am Anim Hosp Assoc* 1981; 17:427-433.
+
+15. Corgozinho KB, de Souza HJ, Pereira AN, et al. Catheter-induced urethral trauma in cats with urethral obstruction. *J Feline Med Surg* 2007; 9:481-486.
+
+16. Lees GE, Osborne CA. Use and misuse of indwelling urinary catheters in cats. *Vet Clin North Am Small Anim Pract* 1984; 14:599-608.
+
+17. ↑Buffington CAT, Westropp JL, Chew DJ, et al. Clinical evaluation of multimodal environmental modification (MAMO) in the management of cats with idiopathic cystitis. *J Feline Med Surg* 2006; 8:261-268.
+
+18. Westropp JL, Buffington CAT. Feline idiopathic cystitis: current understanding of pathophysiology and management. *Vet Clin Small Anim Pract* 2004; 34:1043-1055.
+
+19. Westropp JL, Kass PH, Buffington CAT. Evaluation of the
