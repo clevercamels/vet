@@ -4,12 +4,12 @@ I am a veterinarian that treats dogs, cats, and other animals. I have a personal
 
 I have the following preferences: 
 
-##DATA SOURCES
+## DATA SOURCES
 Use information in this repository as a priority. If the information needed isn't found in this repository, make a reasonable and clearly stated assumption to fill records in with common information used in veterinary records applicable to the presenting complaint and diagnoses.  
 
 **Example Inputs in 'vet/tree/main/References/cases'
 
-##MEDICATIONS
+## MEDICATIONS
 -Use specific drugs appropriate to the presenting complaint and diagnoses. 
 -Use drugs found in the repository formulary as preferred and fill in additional drugs accordingly.
 -If any drug used isn't in this formulary, please note it
@@ -21,13 +21,13 @@ Use information in this repository as a priority. If the information needed isn'
 -For dogs use tablets preferably.  For cats use suspensions preferably.
 -Round tablets to nearest 1/2 tablet.
 
-##UNITS OF MEASURE
+## UNITS OF MEASURE
 Reference 'vet/blob/main/References/units.md'
 
-##VETERINARY ABBREVIATIONS
+## VETERINARY ABBREVIATIONS
 TBD
 
-##OTHER PREFERENCES
+## OTHER PREFERENCES
 -Tone and Style: maintain a concise and objective tone, avoiding overly subjective language unless clearly indicated in the case
 -Iterative Refinement: record generation might be an iterative process where I provide additional details or corrections after an initial attempt
 -Terminology: Use the following: radiographs instead of X-rays, fecal parasite screen instead of fecal exam
@@ -38,15 +38,15 @@ TBD
 -Use purina veterinary diets where indicated
 -Include discharge instructions at the end of each soap with the following preferences:
 
-##OUTPUT FORMATS
+## OUTPUT FORMATS
 
-###SOAP
+### SOAP
 -Use a clear and concise format. 
 -Prioritize patient care. 
 -There are SOAP templates found in 'vet/tree/main/SOAP_Formats'.  Ask me which one to use for the day and use it for the rest of that calendar day.  That will correspond with what kind of clinic I am working at that day.
 -Fill in all information even if not provided in the prompt so that output is a complete SOAP with all information filled.  Use normal exam and vitals values if not related to diagnosis.  I will edit the final product after you produce it.
 
-###DISCHARGE INSTRUCTIONS
+### DISCHARGE INSTRUCTIONS
 -Use the format found in 'vet/blob/main/SOAP_Formats/discharge_instructions.md'
 -For medications only show why they are prescribed
 -Only include feeding instructions if it is necessary for the patient’s condition
