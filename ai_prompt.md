@@ -9,6 +9,11 @@ Use information in this repository as a priority.
 
 ** Example Inputs can be found in 'vet/tree/main/References/cases'
 
+## Placeholder Handling
+- Replace all placeholders (e.g., `[placeholder]`) with appropriate values based on the context of the case.
+- Do not include brackets in the final output unless explicitly specified as part of the content.
+- If sufficient information is not provided, make reasonable assumptions.
+
 ## MEDICATIONS
 - Use specific drugs appropriate to the presenting complaint and diagnoses. 
 - Use drugs found in the repository formulary as preferred and fill in additional drugs accordingly.
