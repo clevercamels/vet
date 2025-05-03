@@ -1,6 +1,6 @@
-# Panacur - Canine
+# Fenbendazole - Canine
 
-**Drug Name**: Panacur
+**Drug Name**: Fenbendazole
 
 ## Active Ingredient  
 Fenbendazole
