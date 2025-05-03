@@ -57,3 +57,6 @@ Management typically involves:
 ## Conclusion
 
 Disorders of lipid metabolism in dogs warrant appropriate consideration and treatment, especially given their potential association with significant diseases like pancreatitis and liver disease.
+
+## Reference
+https://www.sciencedirect.com/science/article/abs/pii/S109002330800364X?via%3Dihub
