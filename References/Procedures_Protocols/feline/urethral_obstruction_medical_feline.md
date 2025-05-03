@@ -27,3 +27,6 @@ A clinical study evaluated a low-cost protocol to manage urethral obstruction (U
 
 ## Clinical Application
 This protocol offers a **cost-effective, minimally invasive alternative** to catheterization for select, stable male cats with UO. It may be particularly useful in cases where financial limitations would otherwise result in euthanasia.
+
+## Reference
+https://pubmed.ncbi.nlm.nih.gov/21118011/
