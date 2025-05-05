@@ -4,7 +4,7 @@ This protocol outlines the emergency management of feline patients presenting wi
 
 ## 1. Initial Assessment and Stabilization
 
-* Recognize clinical signs: Straining to urinate (stranguria), vocalization, frequent trips to the litter box, licking at the后端, firm and distended abdomen (indicating a full bladder). Some cats may present as lethargic, weak, or collapsed.
+* Recognize clinical signs: Straining to urinate (stranguria), vocalization, frequent trips to the litter box, licking at the penis, firm and distended abdomen (indicating a full bladder). Some cats may present as lethargic, weak, or collapsed.
 * Perform a rapid, focused physical examination: Assess hydration status, heart rate and rhythm, pulse quality, mucous membrane color, capillary refill time, and palpate the abdomen very gently for bladder size and turgor.
 * *Warning: Gentle palpation is crucial to avoid bladder rupture.*
 * Establish intravenous (IV) access immediately. A large bore catheter is preferred for rapid fluid administration.
