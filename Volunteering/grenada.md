@@ -1,6 +1,5 @@
 ## Grenada
 
-
 ### General Conditions
 
 ### Travel
@@ -12,13 +11,14 @@
 
 Carricou Animal Hospital
 Airport Road
-Lauriston, Carricou
+Lauriston, Carriacou
 Grenada, W.I
 +1 473 417-3543
-https://carriacouanimalhospital.com
+[https://carriacouanimalhospital.com](https://carriacouanimalhospital.com)
 carriacouanimalhospitalinc@gmail.com
-https://maps.app.goo.gl/G2AJFT6eVo4tv32DA
+[https://maps.app.goo.gl/G2AJFT6eVo4tv32DA](https://maps.app.goo.gl/G2AJFT6eVo4tv32DA)
 
 Non-Profit
 Volunteer run
-
+Minimum two weeks
+Accomodation provided
