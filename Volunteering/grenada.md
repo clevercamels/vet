@@ -1,3 +1,12 @@
+## Grenada
+
+### General Conditions
+
+### Travel
+- Fly AA to GND 
+- Connecting on SVG Air to CRU. 
+- Transit time 12 hours.
+
 ### Facilities
 
 Carriacou Animal Hospital<br>
