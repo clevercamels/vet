@@ -1,24 +1,15 @@
-## Grenada
-
-### General Conditions
-
-### Travel
-    - Fly AA to GND 
-    - Connecting on SVG Air to CRU. 
-    - Transit time 12 hours.
-
 ### Facilities
 
-Carricou Animal Hospital
-Airport Road
-Lauriston, Carriacou
-Grenada, W.I
-+1 473 417-3543
-[https://carriacouanimalhospital.com](https://carriacouanimalhospital.com)
-carriacouanimalhospitalinc@gmail.com
+Carriacou Animal Hospital<br>
+Airport Road<br>
+Lauriston, Carriacou<br>
+Grenada, W.I<br>
++1 473 417-3543<br>
+[https://carriacouanimalhospital.com](https://carriacouanimalhospital.com)<br>
+carriacouanimalhospitalinc@gmail.com<br>
 [https://maps.app.goo.gl/G2AJFT6eVo4tv32DA](https://maps.app.goo.gl/G2AJFT6eVo4tv32DA)
 
-Non-Profit
-Volunteer run
-Minimum two weeks
-Accomodation provided
+- Non-Profit
+- Volunteer run
+- Minimum two weeks
+- Accomodation provided
