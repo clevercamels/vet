@@ -52,7 +52,7 @@ admin@vincentianspca.org<br>
     * Pay: No
     * Reimbursements: 
 
-### Additional Information:
+**Additional Information**<br>
 
 * Relies on volunteers to rescue, rehabilitate, and care for animals.
 * Offers various volunteer roles.
@@ -124,7 +124,7 @@ frontend.kingstown@massystores.com<br>
     * Pay: No
     * Reimbursements: No
 
-### Additional Information:
+**Additional Information**<br>
 
 * Volunteers should be mature, responsible, easy-going, diplomatic, resilient, and willing to help care for all the island animals.
 * Volunteers need to be content with simple living and OK with the heat.
