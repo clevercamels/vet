@@ -10,11 +10,11 @@
 
 ### Travel
  
-* Fly to SVG ()
+* Fly to SVD ()
 
 Mayreau
-* Overnight in SVG. Depending on time of arrival in SVG, you will need to overnight in St Vincent before taking the ferry to Mayreau a day or two later. Ferries to Mayreau run 5 days a week (M T W F Su). 
-* Ground transportation to ferry port ().
+* Overnight in St Vincent. Depending on time of arrival in SVD, you will need to overnight in St Vincent before taking the ferry to Mayreau a day or two later. Ferries to Mayreau run 5 days a week (M T W F Su). 
+* Dround transportation to ferry port ().
 * Ferry to Mayreau ().
 * Ground transportation on Mayreau to Mayreau Animal Welfare (15-30min).
 * Estimated travel time from St Vincent Airport (SVD) to Mayreau: approximately 1 hour 38 minutes.
