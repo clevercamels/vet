@@ -26,6 +26,9 @@ Arnos Vale, St. Vincent & the Grenadines<br>
 +1 (784) 532-9327 or +1 (784) 570-9581<br>
 admin@vincentianspca.org<br>
 [https://vincentianspca.org/](https://vincentianspca.org/)
+Jhanice Nelson
+VSPCA President  
+784 532 9327/ what's app
 
 * Clinic Type and Services Offered:
     * Non-profit organization dedicated to protecting and advocating for animals.
