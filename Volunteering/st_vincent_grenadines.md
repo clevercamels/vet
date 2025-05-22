@@ -10,14 +10,58 @@
 
 ### Travel
  
-* Fly to SVG ()
-* Overnight in SVG. Depending on time of arrival in SVG, you will need to overnight in St Vincent before taking the ferry to Mayreau a day or two later. Ferries to Mayreau run 5 days a week (M T W F Su). 
-* Ground transportation to ferry port ().
+* Fly to SVD ()
+
+Mayreau
+* Overnight in St Vincent. Depending on time of arrival in SVD, you will need to overnight in St Vincent before taking the ferry to Mayreau a day or two later. Ferries to Mayreau run 5 days a week (M T W F Su). 
+* Dround transportation to ferry port ().
 * Ferry to Mayreau ().
 * Ground transportation on Mayreau to Mayreau Animal Welfare (15-30min).
 * Estimated travel time from St Vincent Airport (SVD) to Mayreau: approximately 1 hour 38 minutes.
 
 ### Facilities
+
+**VSPCA**<br>
+Arnos Vale, St. Vincent & the Grenadines<br>
++1 (784) 532-9327 or +1 (784) 570-9581<br>
+admin@vincentianspca.org<br>
+[https://vincentianspca.org/](https://vincentianspca.org/)
+Jhanice Nelson
+VSPCA President  
+784 532 9327/ what's app
+
+* Clinic Type and Services Offered:
+    * Non-profit organization dedicated to protecting and advocating for animals.
+    * Spay & Neuter Clinics.
+    * Humane Education Programs.
+    * Adoption Services.
+    * Visiting Vets Program.
+    * International Rescue Partnerships.
+
+* Caseload and Common Conditions: Medical care, spay/neuter
+* Living Conditions:
+    * Accommodation: Information not explicitly provided.
+
+* Transportation: 
+
+* Time Commitment:
+
+* Visa Requirements: 
+
+* Licensing Requirements: Veterinarians should have a valid license
+
+* Compensation:
+
+    * Pay: No
+    * Reimbursements: 
+
+**Additional Information**<br>
+
+* Relies on volunteers to rescue, rehabilitate, and care for animals.
+* Offers various volunteer roles.
+* Located in Arnos Vale, St. Vincent.
+
+<br>
 
 **Mayreau Animal Welfare**<br>
 Mayreau Island<br>
@@ -85,7 +129,7 @@ frontend.kingstown@massystores.com<br>
     * Pay: No
     * Reimbursements: No
 
-### Additional Information:
+**Additional Information**<br>
 
 * Volunteers should be mature, responsible, easy-going, diplomatic, resilient, and willing to help care for all the island animals.
 * Volunteers need to be content with simple living and OK with the heat.
