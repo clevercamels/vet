@@ -1,5 +1,3 @@
----
-
 # Twilight Sedation Protocol for Minor Procedures
 
 ## Goal: Achieve a relaxed, pain-free, calm patient for minor procedures without full general anesthesia.
