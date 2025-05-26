@@ -12,7 +12,8 @@
 ### Facilities
 
 **Dahab Cats**<br>
-Dahab, Egypt<br>
+
+Assalah, Dahab, Egypt<br>
 [Website](http://dahabcats.com)<br>
 [Facebook](www.facebook.com/DahabCats)<br>
 hello@dahabcats.com<br>
