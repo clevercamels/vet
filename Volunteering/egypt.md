@@ -21,38 +21,39 @@ Whatsapp: +44 7418 626580<br>
 * Clinic Type and Services Offered:
 
     * Cat sanctuary.
-    * Operational running of sanctuaries.
-    * Volunteer activities include feeding, cleaning living spaces, and providing attention.
+    * Operational running of sanctuaries. Volunteer activities include feeding, cleaning living spaces, and providing attention.
     * Specifically interested in vets, trainee vets, and veterinary assistants.
+    * Big need for spay/neuter, but also sick/injured care.
+    * Clinic Hours: 10am - 10pm
 
-* Caseload and Common Conditions: Cats.
+* Caseload and Common Conditions: Free roaming cats and all the things that come with that
 
 * Living Conditions:
 
-    * Accommodation: Included (in the "cathouse") or live-out option.
+    * Accommodation: Included (in the "cathouse") or possibly a free hotel room depending on time of stay.
     * House features: Three bedrooms (two with two single beds, one with a single bed), shared bathroom, spacious fully equipped kitchen. Accommodates up to five guests.
     * Internet: Free Wi-Fi.
     * Electricity/Water: Included.
 
+
 * Transportation:
 
     * From airport to clinic/accommodation: Picked up by Ahmed, a personal driver.
-    * Daily from accommodation to clinic: Implied to be on-site or within walking distance for live-in volunteers.
+    * Daily from accommodation to clinic: On-site or within walking distance for live-in volunteers.
+    * Local: Everything is walkable and taxis are very cheap. They have a driver who can take you anywhere. Couple of minutes walk to shops, and 10 minutes to the square with local restaurants or 5 minutes in the taxi to beach and lots of restaurants. 
 
 * Time Commitment:
 
     * Minimum stay (live-in): 2 weeks.
     * Maximum stay (live-in): 6 weeks (extensions possible on case-by-case basis, check availability).
-    * Daily hours: 5-hour shift each day for live-in volunteers.
+    * Daily hours: 5-hour shift each day for live-in volunteers, more flexible for veterinarians
 
 * Visa Requirements:
 
-    * US citizens generally require a visa for Egypt.
-    * Options: Obtain a 30-day tourist visa on arrival (~$25 USD cash) or apply for an e-visa online.
-    * Note: For stays *only* in Sharm El Sheikh, Dahab, Nuweiba, and Taba resorts for a maximum of 15 days, a free entry permission stamp may be granted on arrival (no visa needed). However, a standard tourist visa is recommended if travel outside these specific areas is desired.
+    * US citizens generally require a 30-day tourist visa for Egypt on arrival (~$25 USD cash) or apply for an e-visa online.
     * Passport must be valid for at least 6 months beyond the intended stay.
 
-* Licensing Requirements: Not specified beyond being a vet, trainee vet, or veterinary assistant.
+* Licensing Requirements: Work under local vet's license
 
 * Compensation:
 
