@@ -25,9 +25,9 @@
 1.  **Anesthesia Machine Connection:** Connect ET tube to anesthesia machine (O2 +/- volatile agent).
 
 2.  **Propofol CRI Initiation:** Start CRI immediately post-induction.
-    * **Initial CRI rate:** 0.1-0.4 mg/kg/min.
+    * **CRI rate:** 0.1-0.4 mg/kg/min, or
+    * **Boluses:** 1-2 mg/kg IV can be administered every 3-5 minutes as needed.
     * Adjust rate to maintain anesthetic depth.
-    * **Supplemental Boluses:** 1-2 mg/kg IV can be administered every 3-5 minutes as needed to deepen anesthesia temporarily.
     * **Note:** CRI can be used alone or combined with inhalants/injectables to reduce propofol dose.
 
 3.  **Fluid Therapy:** Administer IV crystalloids (e.g., LRS, 0.9% NaCl) at maintenance rate (5-10 ml/kg/hr) or as indicated.
