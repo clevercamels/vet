@@ -5,12 +5,12 @@
 * Local Language: English
 * Currency: 
     *Eastern Caribbean Dollars, US Dollars are also acceptable everywhere. 
-    *There is no bank on Mayreau, but there is a bank and ATM on neighbouring Union Island.
-    *Recommend bringing enough cash for your entire stay.
+    *Mayreau 
+	**There is no bank on Mayreau, but there is a bank and ATM on neighbouring Union Island.  Recommend bringing enough cash for your entire stay.
 
 ### Travel
  
-* Fly to SVD ()
+* Fly DFW-MIA-SVD (overnight in MIA may be required)
 
 Mayreau
 * Overnight in St Vincent. Depending on time of arrival in SVD, you will need to overnight in St Vincent before taking the ferry to Mayreau a day or two later. Ferries to Mayreau run 5 days a week (M T W F Su). 
@@ -28,7 +28,7 @@ admin@vincentianspca.org<br>
 [https://vincentianspca.org/](https://vincentianspca.org/)
 Jhanice Nelson
 VSPCA President  
-784 532 9327/ what's app
+784 532 9327 Whatsapp
 
 * Clinic Type and Services Offered:
     * Non-profit organization dedicated to protecting and advocating for animals.
@@ -39,21 +39,25 @@ VSPCA President
     * International Rescue Partnerships.
 
 * Caseload and Common Conditions: Medical care, spay/neuter
+
 * Living Conditions:
-    * Accommodation: Information not explicitly provided.
+    * Accommodation: Provided
+	**2 bedroom within walking distance in Arnos Vale
+	**Cottage at Donors house in Montreal Gardens
+    * Meals: Provided
 
-* Transportation: 
+* Transportation: airport pickup as well as daily transportation; clinic vehicle available
 
-* Time Commitment:
+* Time Commitment: HVSN campaigns
 
-* Visa Requirements: 
+* Visa Requirements: None
 
-* Licensing Requirements: Veterinarians should have a valid license
+* Licensing Requirements: Submit home veterinary license, passport and driver's license to Vincentian Ministry of Agriculture.  VSPCA will submit on volunteer's behalf.
 
 * Compensation:
 
     * Pay: No
-    * Reimbursements: 
+    * Reimbursements: No
 
 **Additional Information**<br>
 
