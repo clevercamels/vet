@@ -22,13 +22,13 @@ IC
 
 EUTHANASIA SOLUTION (rapid IV/IC)
 
-Lidocaine (2% 20mg/ml; 28mg/kg) 	7ml / 10lb
+- Lidocaine (2% 20mg/ml; 28mg/kg) 	7ml / 10lb
 
-MgSO4 (350mg/ml; 250mg/kg)		4ml / 10lb
+- MgSO4 (350mg/ml; 250mg/kg)		4ml / 10lb
 
-KCl (350mg/ml; 150mg/kg)		2ml / 10lb
+- KCl (350mg/ml; 150mg/kg)		2ml / 10lb
 
--Time of death noted by auscultation of lack of cardiac function and corneal reflex [00:00]
+* Time of death noted by auscultation of lack of cardiac function and corneal reflex [00:00]
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
