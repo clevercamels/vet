@@ -34,4 +34,5 @@ David Landers, DVM   TX9576
 [CLINIC ADDRESS]  
 [CLINIC PHONE]
 
-*Use Courier New (or other monospaced font) in word processor for fields to aligne
+*Use in text editor, or use Courier New (or other monospaced font) in word processor for fields to align
+properly. 
