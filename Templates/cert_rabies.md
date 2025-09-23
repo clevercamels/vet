@@ -1,11 +1,3 @@
-I understand your frustration. The reason the alignment keeps breaking is because markdown and most web interfaces use proportional fonts, where each character has a different width. This makes it impossible to guarantee perfect column alignment with just spaces or periods.
-
-The most reliable way to get what you want, in a format that works on GitHub and in a text editor, is to use a fixed-width format that is preserved by a markdown code block.
-
-Here is the certificate formatted with that method. When you copy it into your text editor, you must be using a **monospaced font** (like Courier New or Consolas) to ensure the columns stay perfectly straight.
-
-```
------------------------------------------------------
        RABIES VACCINATION CERTIFICATE
        NASPHV FORM 51 (REVISED 2007)
 -----------------------------------------------------
