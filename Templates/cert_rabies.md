@@ -1,52 +1,46 @@
-### Rabies Certificate Template
+I understand your frustration. The reason the alignment keeps breaking is because markdown and most web interfaces use proportional fonts, where each character has a different width. This makes it impossible to guarantee perfect column alignment with just spaces or periods.
 
-To ensure the columns are perfectly aligned and look neat, the most reliable method in markdown is to use a standard table with both a left and a right border. This forces the markdown renderer to create clean, structured columns, regardless of the text length.
+The most reliable way to get what you want, in a format that works on GitHub and in a text editor, is to use a fixed-width format that is preserved by a markdown code block.
 
-Here is the certificate formatted in that way:
+Here is the certificate formatted with that method. When you copy it into your text editor, you must be using a **monospaced font** (like Courier New or Consolas) to ensure the columns stay perfectly straight.
 
-```markdown
+```
 -----------------------------------------------------
        RABIES VACCINATION CERTIFICATE
        NASPHV FORM 51 (REVISED 2007)
 -----------------------------------------------------
 
 ### OWNER'S NAME AND ADDRESS
-| Label | Value |
-|:-----------------------|:------------|
-| LAST NAME--------------| [LAST NAME] |
-| FIRST NAME-------------| [FIRST NAME] |
-| PHONE------------------| [PHONE #] |
-| STREET-----------------| [STREET] |
-| CITY, STATE ZIP--------| [CITY] |
+LAST NAME: ........................... [LAST NAME]
+FIRST NAME: .......................... [FIRST NAME]
+M.I.: ..................................... [M.I.]
+TELEPHONE #: ........................ [PHONE #]
+NO. STREET: .......................... [STREET]
+CITY: ..................................... [CITY]
+STATE ZIP: ............................ [STATE ZIP]
 
 ### ANIMAL INFORMATION
-| Label | Value |
-|:---|:---|
-| ANIMAL NAME | [ANIMAL NAME] |
-| SPECIES | [DOG/CAT/FERRET/OTHER] |
-| PREDOMINANT BREED | [BREED] |
-| COLORS/MARKINGS | [COLORS/MARKINGS] |
-| AGE | [AGE] |
-| SEX | [MALE/FEMALE] |
-| SIZE | [SIZE] |
-| RABIES TAG # | [TAG #] |
-| MICROCHIP # | [MICROCHIP #] |
-| ANIMAL CONTROL LIC | [LICENSE #] |
+ANIMAL NAME: ....................... [ANIMAL NAME]
+SPECIES: ............................... [DOG/CAT/FERRET/OTHER]
+PREDOMINANT BREED: ............. [BREED]
+COLORS/MARKINGS: ................ [COLORS/MARKINGS]
+AGE: ..................................... [AGE]
+SEX: ..................................... [MALE/FEMALE]
+SIZE: ..................................... [SIZE]
+RABIES TAG #: ....................... [TAG #]
+MICROCHIP #: ........................ [MICROCHIP #]
+ANIMAL CONTROL LIC: .............. [LICENSE #]
 
 ### VACCINATION DETAILS
-| Label | Value |
-|:---|:---|
-| DATE VACCINATED | [TODAY'S DATE] |
-| PRODUCT NAME | [PRODUCT NAME] |
-| MANUFACTURER | [MANUFACTURER] |
-| VACCINE SERIAL # | [SERIAL #] |
-| NEXT VACCINATION DUE | [RE-VACCINATION DATE] |
+DATE VACCINATED: ................. [TODAY'S DATE]
+PRODUCT NAME: .................... [PRODUCT NAME]
+MANUFACTURER: ................... [MANUFACTURER]
+VACCINE SERIAL #: ................. [SERIAL #]
+NEXT VACCINATION DUE: .......... [RE-VACCINATION DATE]
 
 ### VETERINARIAN INFORMATION
-| Label | Value |
-|:---|:---
-| VETERINARIAN'S NAME | [VETERINARIAN NAME] |
-| LICENSE NUMBER | [LICENSE #] |
-| ADDRESS | [VETERINARIAN ADDRESS] |
-| SIGNATURE | _________________________ |
+VETERINARIAN'S NAME: .......... [VETERINARIAN NAME]
+LICENSE NUMBER: ................... [LICENSE #]
+ADDRESS: ............................. [VETERINARIAN ADDRESS]
+SIGNATURE: ............................ _________________________
 ```
