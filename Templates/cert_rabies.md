@@ -11,15 +11,13 @@ Here is the certificate formatted in that way:
 -----------------------------------------------------
 
 ### OWNER'S NAME AND ADDRESS
-| Label | Value |
-|:------------|:------------|
-| LAST NAME | [LAST NAME] |
-| FIRST NAME | [FIRST NAME] |
-| M.I. | [M.I.] |
-| TELEPHONE # | [PHONE #] |
-| NO. STREET | [STREET] |
-| CITY | [CITY] |
-| STATE ZIP | [STATE ZIP] |
+| Label------------------| Value |
+|:-----------------------|:------------|
+| LAST NAME--------------| [LAST NAME] |
+| FIRST NAME-------------| [FIRST NAME] |
+| PHONE------------------| [PHONE #] |
+| STREET-----------------| [STREET] |
+| CITY, STATE ZIP--------| [CITY] |
 
 ### ANIMAL INFORMATION
 | Label | Value |
