@@ -11,7 +11,7 @@ Here is the certificate formatted in that way:
 -----------------------------------------------------
 
 ### OWNER'S NAME AND ADDRESS
-| Label------------------| Value |
+| Label | Value |
 |:-----------------------|:------------|
 | LAST NAME--------------| [LAST NAME] |
 | FIRST NAME-------------| [FIRST NAME] |
