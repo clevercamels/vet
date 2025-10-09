@@ -219,9 +219,9 @@
                     <div class="space-y-4">
                         <div>
                             <h3 class="text-xl font-semibold text-gray-900">Texas State Guard</h3>
-                            <p class="text-gray-500">Senior Military District Coordinator, 1st Brigade | 2025 - Present</p>
+                            <p class="text-gray-500">G6 Signal Officer, 1st Brigade | 2025 - Present</p>
                             <p class="text-gray-500">S6 Communications Officer, 3d Battalion | 2023 - Present</p>
-                             <p class="text-gray-500">Previous roles include S1 Personnel Officer, S3 Operations Officer, and Commander for various groups from 2008-2023.</p>
+                             <p class="text-gray-500">Previous roles include Battalion Commander, Executive Officer, various staff officer for multiple units 2007-2023.</p>
                         </div>
                     </div>
                 </section>
@@ -230,7 +230,7 @@
                 <section class="resume-section">
                     <h2 class="text-3xl font-bold text-gray-800 border-b-2 border-blue-500 pb-2 mb-4">Humanitarian Projects</h2>
                      <ul class="list-disc list-inside space-y-2 text-gray-600">
-                        <li>St Vincent and the Grenadines (2025) - Spay/Neuter Campaign</li>
+                        <li>St Vincent & Grenadines (2025) - Spay/Neuter Campaign</li>
                         <li>Aruba (2025) - Spay/Neuter Campaign</li>
                         <li>Saipan (2023) - Multi-species Health Consultations</li>
                         <li>Guam (2023) - Spay/Neuter Campaign</li>
@@ -327,67 +327,7 @@
         });
 
 
-        /**
-         * Calls the Gemini API to generate a professional summary.
-         * Implements exponential backoff for retries.
-         */
-        async function callGeminiApi() {
-            const userQuery = getPlainTextResume();
-            const systemPrompt = "You are an expert resume writer. Based on the provided resume content, craft a concise and compelling professional summary for a veterinarian. The summary should be a single paragraph, highlighting key qualifications, years of experience, and specializations like aquatic and exotic animal medicine. Maintain a professional and confident tone.";
-            const apiKey = ""; // API key is handled by the execution environment
-            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
-
-            const payload = {
-                contents: [{ parts: [{ text: userQuery }] }],
-                systemInstruction: {
-                    parts: [{ text: systemPrompt }]
-                },
-            };
-
-            let response;
-            let retries = 3;
-            let delay = 1000;
-
-            while (retries > 0) {
-                try {
-                    response = await fetch(apiUrl, {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify(payload)
-                    });
-
-                    if (response.ok) {
-                        const result = await response.json();
-                        const candidate = result.candidates?.[0];
-                        if (candidate && candidate.content?.parts?.[0]?.text) {
-                            loadingSpinner.style.display = 'none';
-                            summaryOutput.innerText = candidate.content.parts[0].text;
-                        } else {
-                           throw new Error("Invalid response structure from API.");
-                        }
-                        return; // Success, exit the function
-                    } else if (response.status === 429 || response.status >= 500) {
-                        // Retry on rate limiting or server errors
-                        throw new Error(`API request failed with status ${response.status}`);
-                    } else {
-                        // Don't retry for other client-side errors
-                        const errorResult = await response.json();
-                        throw new Error(errorResult.error?.message || "An unknown API error occurred.");
-                    }
-                } catch (error) {
-                    console.error(`Attempt failed: ${error.message}. Retries left: ${retries - 1}`);
-                    retries--;
-                    if (retries === 0) {
-                        loadingSpinner.style.display = 'none';
-                        summaryOutput.innerText = `Failed to generate summary after multiple attempts. Error: ${error.message}`;
-                        return; // Exit after final attempt
-                    }
-                    await new Promise(resolve => setTimeout(resolve, delay));
-                    delay *= 2; // Exponential backoff
-                }
-            }
-        }
-
+        
 
         // --- Functionality for Action Buttons ---
 
