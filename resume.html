@@ -384,47 +384,7 @@
             return resumeText;
         }
 
-        // 1. Copy to Clipboard
-        copyBtn.addEventListener('click', () => {
-            const resumeText = getPlainTextResume();
-            const textArea = document.createElement('textarea');
-            textArea.value = resumeText;
-            document.body.appendChild(textArea);
-            textArea.select();
-            try {
-                if(navigator.clipboard && window.isSecureContext) {
-                    navigator.clipboard.writeText(resumeText);
-                } else {
-                    document.execCommand('copy');
-                }
-                
-                copyFeedback.classList.remove('opacity-0');
-                copyBtn.classList.add('bg-blue-800');
-                setTimeout(() => {
-                    copyFeedback.classList.add('opacity-0');
-                    copyBtn.classList.remove('bg-blue-800');
-                }, 2000);
-
-            } catch (err) {
-                console.error('Failed to copy text: ', err);
-                alert('Could not copy text. Please try again.');
-            }
-            document.body.removeChild(textArea);
-        });
-
-        // 2. Download as .txt file
-        downloadBtn.addEventListener('click', () => {
-            const resumeText = getPlainTextResume();
-            const blob = new Blob([resumeText], { type: 'text/plain' });
-            const link = document.createElement('a');
-            link.href = URL.createObjectURL(blob);
-            link.download = 'David_Landers_DVM_Resume.txt';
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-        });
-
-        // 3. Print Resume
+        // Print Resume
         printBtn.addEventListener('click', () => {
             window.print();
         });
