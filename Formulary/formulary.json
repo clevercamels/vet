@@ -90,4 +90,6 @@
   {"name":"apomorphine","form":"injectable","strength (mg/ml)":"3","dose (mg/kg)":"0.03 iv","sig":"[{#calc ( {#gettemp weight_lb -variablename weight_lb}/2.2)*0.03/3 -variablename calculation}ml]"}
 
   {"name":"apomorphine","form":"injectable","strength (mg/ml)":"3","dose (mg/kg)":"0.03 iv","sig":""}
+
+  {"name":"velagliflozin","form":"suspension","strength (mg/ml)":"15","dose (mg/kg)":"1.0 PO","sig":"Give [{#calc ( {#gettemp weight_lb -variablename weight_lb}/2.2)*0.03/3 -variablename calculation}ml] by mouth once daily for diabetes"}
 ]
