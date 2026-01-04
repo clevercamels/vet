@@ -54,3 +54,40 @@ Placencia Village, Belize<br>
 Additional Information:
 
 * The Placencia Humane Society is actively involved in managing the local animal population through spay/neuter campaigns. 
+
+
+**Caye Caulker Humane Society**<br>
+Sinsonte Road<br>
++501-639-0801<br>
+https://cayecaulkerhumanesociety.com/<br>
+https://www.facebook.com/cayecaulker.humanesociety/<br>
+https://maps.app.goo.gl/ivsvDy4mG4PpRwkx5
+
+* Clinic Type and Services Offered:
+    * Medical
+    * Spay Neuter
+
+* Caseload and Common Conditions: 
+
+* Living Conditions:
+    * Accommodation: at clinic
+    * Food Provided: 
+    * Internet:
+    * Laundry:
+    * Grocery:
+
+* Transportation: 
+    *From airport to clinic/accommodation:Ferry
+    *Daily from accommodation to clinic:Walk
+
+* Time Commitment: 
+    *Minimum stay:
+    *Daily hours:
+
+* Visa Requirements: 
+
+* Licensing Requirements:
+
+* Compensation: 
+    Pay: Volunteer
+    Reimbursements:
